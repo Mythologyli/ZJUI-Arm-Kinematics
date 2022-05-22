@@ -1,5 +1,7 @@
 # ZJUI 机械臂运动学
 
+详细内容请查看这篇[文章](https://myth.cx/p/zjui-arm-kinematics)
+
 ## ZJUI 机械臂说明
 
 ZJUI 机械臂的 DH 参数如下：
